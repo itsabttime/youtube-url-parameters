@@ -4,4 +4,5 @@
   (1) make changes in `test_youtube_urls.bat` and change line `"C:\Users\Anil Bapna\Desktop\Batch folder\PUBLISHED_ytd.bat"`
   to actual path on your computer.
   
-  (2) in `published_ytd.bat' change `..Youtube` in every line to path of `yt-dlp` on your computer.
+  (2) in `published_ytd.bat` change ```..Youtube``` in every line to path of 
+  `yt-dlp` on your computer.
